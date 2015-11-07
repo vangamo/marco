@@ -1,0 +1,17 @@
+Source: com.vangamo.marcolocal
+Section: devel
+Priority: optional
+Maintainer: PhoneGap Team <support@phonegap.com>
+Build-Depends: ubuntu-sdk,
+         qtfeedback5-dev,
+         qtmultimedia5-dev,
+         qtpim5-dev,
+         libqt5sensors5-dev,
+         qtsystems5-dev,
+         qtlocation5-dev,
+         libicu-dev
+
+Package: com.vangamo.marcolocal
+Architecture: any
+Description: Hello World sample application that responds to the deviceready event.
+Depends: ubuntu-sdk-libs

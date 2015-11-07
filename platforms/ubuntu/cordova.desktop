@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Marco local SD
+Exec=./cordova-ubuntu www/
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=www/icon.png

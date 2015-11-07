@@ -1,0 +1,10 @@
+ dpkg-buildpackage -rfakeroot -D -us -uc
+dpkg-buildpackage: paquete fuente com.vangamo.marcolocal
+dpkg-buildpackage: versión de las fuentes 1.0.0
+dpkg-buildpackage: distribución de las fuentes trusty
+dpkg-buildpackage: fuentes modificadas por PhoneGap Team <support@phonegap.com>
+ dpkg-source --before-build com.vangamo.marcolocal
+dpkg-buildpackage: arquitectura del sistema amd64
+dpkg-checkbuilddeps: Dependencias de construcción no satisfechas: ubuntu-sdk
+dpkg-buildpackage: aviso: Las dependencias y conflictos de construcción no están satisfechas, interrumpiendo
+dpkg-buildpackage: aviso: (Use la opción «-d» para anularlo.)

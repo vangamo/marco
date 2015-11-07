@@ -1,0 +1,1 @@
+{"name":"com.vangamo.marcolocal","version":"1.0.0","title":"Marco local SD","hooks":{"cordova":{"desktop":"cordova.desktop","apparmor":"apparmor.json"}},"maintainer":"PhoneGap Team <support@phonegap.com>","description":"Hello World sample application that responds to the deviceready event."}
